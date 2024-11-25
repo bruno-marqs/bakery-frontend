@@ -1,6 +1,9 @@
 # bakery-frontend
 Projeto de padaria para aula de frontend na UNIFAN
 
+# Video da landing page
+https://youtu.be/WQHK30V_pyM
+
 ## Pré-requisitos
 
 - Node.js e npm instalados na sua máquina.
