@@ -28,6 +28,10 @@ module.exports = {
           body: '#FFFEF8',
           card: '#E6E4DB',
         },
+        gradientColorStops: theme => ({
+          'custom-yellow-start': '#FFB800',
+          'custom-yellow-end': '#F2FA20D',
+        }),
       },
       fontFamily: {
         
